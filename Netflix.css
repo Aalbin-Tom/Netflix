@@ -1,0 +1,414 @@
+body{
+    margin: 0;
+    background-image:url("icons/output-onlinepngtools.png");
+    background-color: rgba(0, 0, 0, 0.463);
+    color: white;
+    background-repeat: no-repeat;
+    
+}
+.container{
+   
+    height: 100%;
+    width: 100%;
+}
+
+.head{
+    margin-left: 42px;
+    height: 88px;
+   display: flex;
+   justify-content: space-between;
+    width: 91%;
+
+}
+.netflix img{
+    margin-left: 6px;
+    margin: 22px;
+    height: 51px;
+    width: 156px;
+}
+
+.lang{
+    display: flex;
+    align-items: center;
+}
+
+.lang img{
+    height: 16px;
+    margin-left: 10%;
+    margin: 34px;
+    display: flex;
+}
+.lang button{
+    width: 110px;
+    cursor: pointer;
+    margin-left: -59px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: rgba(0,0,0,0);
+    color: white;
+    height: 38px;
+    border-radius: 8px;
+    background-color: rgba(0,0,0,0);
+    color: white;
+}
+.lang button1{
+    color: white;
+    cursor: pointer;
+    margin-left: 22px;
+    background-color: red;
+    width: 66px;
+    height: 32px;
+    border-radius: 9px;
+    line-height: 1.6;
+    padding-left: 13px;
+}
+.content {
+    width: 455px;
+    height: 100%;
+    margin-left: 540px;
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+.content h1{
+    font-size: xxx-large;
+    height: 90px;
+}
+.content h2{
+    width: fit-content;
+    margin-left: 58px;
+}
+.main h3{
+   
+    margin-left: 486px;
+}
+.email{
+    display: flex;
+    height: 78px;
+    width: 692px;
+    margin-left: 439px;
+}
+.submitbar{
+    background-color: red;
+    padding: 15px;
+    width: 137px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 3px;
+}
+.searchbar{
+    width: 469px;
+    border-radius: 3px;
+}
+.banner-one{
+    margin-top: 209px;
+    width: 100%;
+    border-top: 8px solid #222;
+    background-color: rgb(0, 0, 0);
+    height: 470px;
+}
+.banner{
+  display: flex;
+}
+.containerone{
+    display: flex;
+}
+.containerone img{
+    position: absolute;
+    height: 435px;
+    width: 556px;
+    margin-left: 818px;
+}
+.enjoy {
+    color: aliceblue;
+    font-size: 24px;
+    padding-top: 30px;
+    margin-left: 168px;
+   
+}
+.line{
+    padding-right: 40px;
+}
+.enjoy h1{
+    margin-top: 125px;
+    text-align: right;
+    margin-right: 417px;
+}
+.enjoy h3{
+    margin: 10px;
+}
+.videoone {
+    position: absolute;
+    height: 294px;
+    padding-left: 756px;
+    padding-top: 80px;
+}
+.videoone video{
+    width: 405px;
+    height: 248px;
+    margin-left: 133px;
+    margin-top: -2px;
+}
+.banner-two{
+   
+    width: 100%;
+    border-top: 8px solid #222;
+    background-color: rgb(0, 0, 0);
+    height: 566px;
+}
+.containertwo{
+    width:50%;
+    position: absolute;
+  
+
+}
+.b{
+    height: 379px;
+    width: 504px;
+    margin-left: 128px;
+    margin-top: 58px;
+}
+.doctor{
+    position: absolute;
+    margin-top: 312px;
+    margin-left: -406px;
+    height: 91px;
+    width: 70px;
+}
+.download-button{
+    background-color: rgb(0 0 0);
+    color: white;
+    width: 331px;
+    height: 105px;
+    padding-left: 9px;
+    border-radius: 15px;
+    margin-top: 304px;
+    margin-left: -435px;
+    position: absolute;
+}
+.gif{
+    height: 61px;
+    padding-left: 5px;
+    border-radius: 31px;
+    margin-top: 321px;
+    margin-left: -201px;
+    position: absolute;
+}
+.txt h1{
+    margin: 120px;
+    margin-left: 744px;
+    font-size: xxx-large;
+    height: 1px;
+    margin-top: 168px;
+}
+.txt h2{
+    font-size: x-large;
+    margin-left: 747px;
+}
+.banner-three{
+    width: 100%;
+    border-top: 8px solid #222;
+    background-color: rgb(0, 0, 0);
+    height: 486px;
+    margin-top: 128px;
+    display: flex;
+}
+.container-three{
+    width: 50%;
+    display: flex;
+    height: 93px;
+    margin: 8px;
+    flex-wrap: wrap;
+}
+.c1{
+    height: 12px;
+    font-size: xxx-large;
+    margin-left: 183px;
+    margin-top: 138px;
+}
+.c2{
+    font-size: x-large;
+    margin-left: 194px;
+}
+.container-three-a{
+   height: 383px;
+   
+}
+.tvmac{
+    margin-top: 41px;
+    height: 423px;
+   margin-left: 155px;
+   position: absolute;
+}
+.container-three-a video{
+    margin-top: 46px;
+    margin-left: 251px;
+    height: 258px;
+    width: 357px;
+}
+.banner-four{
+    width: 100%;
+    border-top: 8px solid #222;
+    background-color: rgb(0, 0, 0);
+    height: 533px;
+    display: flex;
+}
+.container-four{
+    width: 50%;
+    display: flex;
+    height: 605px;
+    margin: 8px;
+}
+.children{
+    margin-left: 181px;
+    height: 400px;
+    margin-top: 38px;
+}
+.txt-one h1{
+    font-size: xxx-large;
+    margin-top: 175px;
+
+}
+.banner-five{
+    border-top: 8px solid #222;
+    background-color: black;
+    height: 843px;
+    display: flex;
+    justify-content: center;
+
+}
+.container-five{
+    height: 714px;
+    width: 65%;
+    margin-top: 28px;
+}
+.container-five h1{
+    margin-left: 174px;
+    font-size: xxx-large;
+}
+.butons{
+    width: 754px;
+    height: 439px;
+    position: absolute;
+    right: 24%;
+    display: flex;
+    background-color: rgba(0,0,0,0);
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: x-large;
+   
+    align-content: center;
+}
+
+.questions{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 20px;
+    color: white;
+    font-size: xx-large;
+    border-top: 3px solid #222;
+}
+.questions p{
+    margin-top: 12px;
+    font-size: larger;
+}
+.container-five h3{
+    margin-left: 139px;
+    font-size: x-large;
+    margin-top: 535px;
+}
+.email-one{
+    display: flex;
+    margin-left: 182px;
+    
+}
+.submitbar-two{
+    background-color: red;
+    padding: 15px;
+    width: 137px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 3px;
+   
+}
+.searchbar-two{
+    width: 469px;
+    border-radius: 3px; 
+}
+.footer{
+    border-top: 8px solid #222;
+    height: 453px;
+    
+    background-color: black;
+}
+.container-six{
+    background-color: rgb(0 0 0);
+    height: 195px;
+    width: 65%;
+    margin-top: 42px;
+    margin-left: 281px;
+}
+.callus{
+    color:#757575;
+    background-color: rgb(0, 0, 0);
+    font-size: 23px;
+}
+.contentbox{
+    width: 100%;
+    height: 185px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+}
+.firstcoloumn{
+    background-color: rgb(0, 0, 0);
+    height: 180px;
+    width: 25%;
+}
+.firstcoloumn li{
+    list-style: none;
+    padding-bottom: 10px;
+    color: #757575;
+    font-size: 18px;
+    line-height: 45.456px;
+}
+.langu{
+    display: flex;
+    margin-top: 43px;
+}
+.langu img{
+    height: 16px;
+    margin-left: 10%;
+    margin: 0px;
+  
+    
+}
+.langu button{
+    margin-top: -10px;
+    width: 115px;
+    cursor: pointer;
+    margin-left: -25px;
+    height: 40px;
+    border-color: white;
+    background-color: rgba(0,0,0,0);
+    color: white;
+    height: 38px;
+    background-color: rgba(0,0,0,0);
+    color: white;
+}
+
+.container-six h6{
+    margin-top: -6px;
+}
+
+
+
+
+
+
+
+
+
